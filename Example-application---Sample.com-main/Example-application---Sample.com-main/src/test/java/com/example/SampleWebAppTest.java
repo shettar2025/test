@@ -25,6 +25,6 @@ public class SampleWebAppTest {
     }
 
     private String getAppName() {
-        return "Sample Web Application";
+        return "Sample Web Application 2026";
     }
 }
